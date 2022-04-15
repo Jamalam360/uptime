@@ -7,8 +7,8 @@ sites:
     url: https://jamalam.tech/
   - name: Maven
     url: https://maven.jamalam.tech/
-  - name: Slight
-    url: https://slight.deno.dev/
+  #- name: Slight
+  #  url: https://slight.deno.dev/
   - name: Pinguino Site
     url: https://pinguino.jamalam.tech/
     
