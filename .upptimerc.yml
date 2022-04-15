@@ -22,10 +22,14 @@ status-website:
   introTitle: "Status monitoring for Jamalam's web projects"
   introMessage: These are the live statuses and incident reports for my web projects
   navbar:
+    - title: Portfolio
+      href: https://jamalam.tech/
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/$REPO/
+    - title: Maven
+      href: https://maven.jamalam.tech/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
