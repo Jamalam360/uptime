@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Portfolio
     url: https://jamalam.tech/
+  - name: Maven
+    url: https://maven.jamalam.tech/
   - name: Slight
     url: https://slight.deno.dev/
   - name: Pinguino Site
