@@ -18,6 +18,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Maven",
+    "url": "https://maven.jamalam.tech/",
+    "icon": "https://favicons.githubusercontent.com/maven.jamalam.tech",
+    "slug": "maven",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 655,
+    "timeDay": 655,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Slight",
     "url": "https://slight.deno.dev/",
     "icon": "https://favicons.githubusercontent.com/slight.deno.dev",
