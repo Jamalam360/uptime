@@ -4,36 +4,39 @@
     "url": "https://jamalam.tech/",
     "icon": "https://favicons.githubusercontent.com/jamalam.tech",
     "slug": "main-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 565,
     "timeDay": 615,
     "timeWeek": 565,
     "timeMonth": 565,
     "timeYear": 565,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 1
+    }
   },
   {
     "name": "Maven",
     "url": "https://maven.jamalam.tech/",
     "icon": "https://favicons.githubusercontent.com/maven.jamalam.tech",
     "slug": "maven",
-    "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "98.51%",
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
     "time": 918,
     "timeDay": 481,
     "timeWeek": 918,
     "timeMonth": 918,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2022-04-18": 1,
       "2022-04-16": 54
     }
   },
@@ -42,9 +45,9 @@
     "url": "https://pinguino.jamalam.tech/",
     "icon": "https://favicons.githubusercontent.com/pinguino.jamalam.tech",
     "slug": "pinguino-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +56,8 @@
     "timeWeek": 401,
     "timeMonth": 401,
     "timeYear": 401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
   }
 ]
