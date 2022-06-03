@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/jamalam.tech",
     "slug": "main-site",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 614,
-    "timeDay": 305,
-    "timeWeek": 370,
-    "timeMonth": 411,
-    "timeYear": 614,
+    "uptimeYear": "99.91%",
+    "time": 609,
+    "timeDay": 345,
+    "timeWeek": 353,
+    "timeMonth": 413,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2022-04-21": 64
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 701,
-    "timeDay": 358,
-    "timeWeek": 418,
-    "timeMonth": 540,
-    "timeYear": 701,
+    "time": 696,
+    "timeDay": 362,
+    "timeWeek": 402,
+    "timeMonth": 539,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2022-04-16": 54
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 545,
-    "timeDay": 135,
-    "timeWeek": 506,
-    "timeMonth": 572,
+    "timeDay": 559,
+    "timeWeek": 563,
+    "timeMonth": 567,
     "timeYear": 545,
     "dailyMinutesDown": {
       "2022-05-30": 33,
